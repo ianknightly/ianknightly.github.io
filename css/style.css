@@ -1,3 +1,45 @@
+#rune1 {
+  width: 500px;
+  height: 400px;
+  border: 1px solid black;
+  margin: auto;
+  border-radius: 0px;
+}
+
 body {
-  background-color: blue;
+  background-image: url("media/superbowlscoreboardsecondupdate.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+html {
+  background-color: rgb(7, 29, 74);
+  background: linear-gradient(to right, rgba(7, 29, 74, 0.75), rgba(7, 29, 74, 1), rgba(7, 29, 74, 0.75));
+}
+
+p {
+  color: white
+}
+
+h1 {
+  color: white
+}
+
+h2 {
+  color: white
+}
+
+h3 {
+  color: white
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.center {
+  text-align: center;
 }
